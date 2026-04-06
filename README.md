@@ -1,8 +1,7 @@
 
 #  COMO RODAR OS PROJETOS
 ---
-
-# 🔹 1. FastBite
+#  1. FastBite
 
 # entrar na pasta
 cd fastbite
@@ -18,7 +17,7 @@ docker compose down
 
 ---
 
-# 🔹 2. TechVision
+#  2. TechVision
 
 # entrar na pasta
 cd techvision
